@@ -1,1 +1,2 @@
 # COSC-350-Personal-Project
+This is a project for my COSC 350 Course which is known as Data Communications and Networking. The following course covers network architecture, LANS, packet analysis and the basics in TCP/IP Suite. The project I decided to use from the list of past projects is a VPN also known as a private network. This project piqued my interest since I am interested in Cyber Security which is the track I am currently pursuing within my undergraduate degree in Computer Science. 
